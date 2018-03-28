@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         //Feature 1
         //Feature 2
         //Feature 3
+        //Feature 4 by ikajava88
         // Do any additional setup after loading the view, typically from a nib.
     }
 
